@@ -1,0 +1,2 @@
+# hangman-game
+ A simple command-line Hangman game built in Python. The game randomly selects a word from a predefined list, and the player must guess the word letter by letter. Each wrong guess reduces the number of available lives. The game ends when the word is guessed correctly or all lives are lost. Ideal for beginners looking to understand basic programming concepts like loops, conditionals, and user input handling.
