@@ -32,4 +32,4 @@ A beginner-friendly **command-line Hangman game** built using Python. This mini-
 
 ### Run the game
 ```bash
-python-hangman.py
+hangman-game.py
